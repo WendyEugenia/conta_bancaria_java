@@ -4,7 +4,7 @@ import conta.util.Cores;
 
 public class Cores {
 
-	//Reset Color
+			//Reset Color
 			public static final String TEXT_RESET = "\u001B[0m";
 
 			//Text Color
